@@ -1,4 +1,4 @@
-## Github Page for Mr. Lv
+## Github Page
 
 这是一个文档总结网站，主要用于记录自己的一些学习过程。
 
