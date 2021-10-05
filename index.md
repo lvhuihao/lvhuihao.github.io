@@ -12,8 +12,8 @@
 ```
 project
 |- src
-    |- index.js
-    |- index.html
+|   |- index.js
+|   |- index.html
 |- webpack.config.js
 ```
 
