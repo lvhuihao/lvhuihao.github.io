@@ -43,12 +43,4 @@ module.exports = {
 - 快速入门
 - 配置指南
 
-### node
-
-### javascript
-
-### 网络
-
-### 其他
-
 - **[我的网页](https://lvhuihao.github.io/home.html)**
