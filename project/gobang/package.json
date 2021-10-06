@@ -1,0 +1,11 @@
+{
+  "name": "gobang",
+  "version": "1.0.0",
+  "description": "vue项目搭建五子棋游戏",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
