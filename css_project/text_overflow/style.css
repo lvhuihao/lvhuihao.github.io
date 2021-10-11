@@ -1,0 +1,26 @@
+.mainDiv {
+  width: 500px;
+  height: 200px;
+  background-color: #aaa;
+  overflow: hidden;
+}
+p {
+  position: relative;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  /* display: inline-block; */
+}
+p:hover {
+  animation: move 1.5s infinite alternate linear;
+}
+
+@keyframes move {
+  0% {
+    left: 0;
+    transform: translate(0, 0);
+  }
+  100% {
+    left: 100%;
+    transform: translate(-100%, 0);
+  }
+}
