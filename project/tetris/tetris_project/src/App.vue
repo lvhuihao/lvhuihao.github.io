@@ -2,15 +2,16 @@
   <Game></Game>
 </template>
 
-<script>
+<script lang="ts">
+import { Options, Vue } from 'vue-class-component';
 import Game from './components/game.vue'
-
-export default {
-  name: 'App',
+@Options({
   components: {
     Game
-  }
-}
+  },
+
+})
+export default class App extends Vue { }
 </script>
 
 <style>
